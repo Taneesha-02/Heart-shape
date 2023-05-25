@@ -55,7 +55,7 @@ def txt():
 
 	# Write the specified text in
 	# specified font style and size
-	pen.write("I LOVE YOU<3", font=(
+	pen.write("CUTE TT ", font=(
 	"Verdana", 12, "bold"))
 
 
